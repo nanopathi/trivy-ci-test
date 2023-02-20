@@ -1,3 +1,4 @@
+
 name: Scan
 on: [push, pull_request]
 jobs:
